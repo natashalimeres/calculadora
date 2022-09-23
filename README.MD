@@ -6,4 +6,3 @@
 - HTML
 - CSS
 - Javascript
-- GIT e GITHUB
