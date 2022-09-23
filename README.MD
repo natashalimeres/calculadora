@@ -1,5 +1,5 @@
 ![preview](./.github/calc.png)
-# CALCULADORA
+# Calculadora
 
 # Tecnologias
 
