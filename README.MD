@@ -6,3 +6,5 @@
 - HTML
 - CSS
 - Javascript
+
+Desenvolvido com 💘 por Natasha Limeres
