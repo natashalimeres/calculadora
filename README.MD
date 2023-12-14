@@ -1,10 +1,9 @@
 ![preview](./.github/calc.png)
-# Calculadora
+# Calculator
 
-# Tecnologias
+# Technologies 
 
 - HTML
 - CSS
 - Javascript
 
-Desenvolvido com 💘 por Natasha Limeres
